@@ -7,9 +7,6 @@ user can filter all products .
 user can sort products by newest ,oldest ,bestsels ,price high to low or low to high.
 user can view product and all products which depend on this product.
 
-[html5,css3,es6,react,context api , axios,nodejs ,expressjs ,mongodb ,jsonwebtoken,bcrypt,cloudinary,express-fileupload]
-
-
 
 [Heroku Demo](https://e-commerce32.herokuapp.com/)
 
