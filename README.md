@@ -14,8 +14,8 @@ user can view product and all products which depend on this product.
 
 ## Running Application Locally
 
-####  * docker build -t name-docker-image .
-####  * docker run --name name-docker-image -p 3000:5000 name-docker-image
+* docker build -t name-docker-image .
+* docker run --name name-docker-image -p 3000:5000 name-docker-image
 
 ### Admin interface 
 
