@@ -10,6 +10,10 @@ user can view product and all products which depend on this product.
 
 [Heroku Demo](https://e-commerce32.herokuapp.com/)
 
+## DFD Digram
+
+![alt](https://res.cloudinary.com/djamk74m7/image/upload/v1642703967/ecommerce/ecommerce-DFD_f1kczx.png)
+
 
 
 ## Running Application Locally
