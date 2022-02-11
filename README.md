@@ -1,7 +1,7 @@
 
 this is a Full Ecommerce Website  With Dashboard for Admin to add products and eiding the  details about products.
 payment with paypal.
- admin can see all products which is the best sold , all payment process .
+ admin can see all products which is the best sold , all payment process.
 admin can add product and can control it in filtering.
 user can filter all products .
 user can sort products by newest ,oldest ,bestsels ,price high to low or low to high.
