@@ -8,7 +8,7 @@ user can sort products by newest ,oldest ,bestsels ,price high to low or low to 
 user can view product and all products which depend on this product.
 
 
-[Heroku Demo](https://e-commerce32.herokuapp.com/)
+[Heroku Demo](https://e-commerce32.herokuapp.com/) .
 
 ## DFD Digram for user
 
